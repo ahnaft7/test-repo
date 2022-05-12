@@ -1,9 +1,7 @@
 my first commit to github
 
-<<<<<<< HEAD
 checking if update works??
-=======
-checking update??
->>>>>>> 1fd673ffcb239995c555a0d38343ddac2846ffb9
+
+checking update
 
 another update?
